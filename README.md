@@ -7,4 +7,4 @@ TO RUN project -
 3) Create Database named 'bank' and import the sql file(provided in database folder)  
 4) Open chrome and type localhost/banking/index.php  
 
-For Demo you can check My website: "https://keval00.000webhostapp.com/"  
+For Demo you can check My website:   
